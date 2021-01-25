@@ -3,7 +3,7 @@ A script to merge several repositories into one codebase
 
 ## Example
 ```
-bash 
+bash mergeGitRepositories.sh repo_name reposList.txt
 ```
 
 ## Acknowledgement
